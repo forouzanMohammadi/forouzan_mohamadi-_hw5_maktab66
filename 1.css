@@ -1,0 +1,22 @@
+@font-face{
+    font-family: IRANSans;
+    src: url(./fonts/Sans\ a4fran3.eot);
+    src: url(./fonts/Sans\ a4fran3.ttf) format("ttf"),
+         url(./fonts/Sans\ a4fran3.woff) format("woff");
+}
+body{
+    font-family: 'IRANSans','Courier New', Courier, monospace;
+    direction: rtl;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header div{
+    width: 100vw;
+    height: 3vh;
+    background-color: #459224;
+   
+}
