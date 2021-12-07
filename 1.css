@@ -20,3 +20,81 @@ header div{
     background-color: #459224;
    
 }
+.navbar{
+    background-color: white;
+    width: 100vw;
+    height: 9vh;
+  
+}
+.navbar ul span:first-child{
+    margin: 30px 0px;
+    
+    
+}
+.navbar ul{
+    margin: 1.5% 10%;
+}
+
+.navbar ul li{
+    float: right;
+    list-style: none;
+    text-align: center;
+    margin: 5px 30px;
+  
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+    display: block;
+    position: relative;
+    right:80px
+}
+.navbar ul li a:hover{
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.651);
+    width: 90px;
+    height: 30px;
+    background-color:#3f8a1f7a ;
+    border:1px solid;
+    border-radius: 100px;
+    box-sizing: border-box;
+    padding:3px;
+}
+.navbar span a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.836);
+    font-size: 12px;
+    float: left;
+    margin: 5px 90px;
+    width: 130px;
+    height: 30px;
+    background-color:#459224ea ;
+    border-radius: 100px;
+    box-sizing: border-box;
+    padding:5px 30px;
+    overflow:hidden;
+    box-shadow: 1px 3px 3px -1px  #535050a2 ;
+}
+.navbar ul li i{
+    color:#3f8a1f7a ;
+}
+#logo{
+    margin: -12px -9px;
+}
+#logo span{
+    position: relative;
+    bottom: 5px;
+    color: rgba(141, 138, 138, 0.973);
+    font-weight: bold;
+}
+#horizontal{
+    color: rgb(216, 214, 214);
+    width: 100vw;
+    border-top: 1.5px solid;
+    box-shadow: 0px 0px 2px 0 #cac7c7a2;
+    
+}
+
+    
+       
