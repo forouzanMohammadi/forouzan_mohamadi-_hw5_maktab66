@@ -120,7 +120,8 @@ section div img{
     height: 50px;
     margin:30% 30%;
 }
-section div span{
+section div a{
+    text-decoration: none;
     color:gray;
     font-size: 12px;
     text-align: center;
