@@ -79,6 +79,7 @@ header div{
 .navbar ul li i{
     color:#3f8a1f7a ;
 }
+
 #logo{
     margin: -12px -9px;
 }
@@ -95,6 +96,36 @@ header div{
     box-shadow: 0px 0px 2px 0 #cac7c7a2;
     
 }
+section{
+    height: 45vh;
+    width: 100vw;
+    margin:auto;
+    padding: auto;
+}
+section h1{
+    text-align: center;
+    color: rgb(92, 89, 89);
+}
+section div{
+    width: 120px;
+    height:120px;
+    border-radius: 100px;
+    background-color: #f1c40f;
+    display:inline-block;
+    margin:2% 12%;
+            
+}
+section div img{
+    width: 50px;
+    height: 50px;
+    margin:30% 30%;
+}
+section div span{
+    color:gray;
+    font-size: 12px;
+    text-align: center;
+    margin:2% 16%;
+    display:inline;
+}
 
-    
-       
+
